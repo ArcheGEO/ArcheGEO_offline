@@ -1,0 +1,8 @@
+identifier = 'ID   '
+accession = 'AC   '
+synonym = 'SY   '
+taxonomy = 'OX   NCBI_TaxID='
+disease = 'DI   NCIt; '
+terminate = '//'
+anatomy_1 = 'CC   Derived from sampling site: '
+anatomy_2 = 'CC   Derived from metastatic site: '
