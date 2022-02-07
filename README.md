@@ -1,4 +1,5 @@
-#Important: Although PROTEASE is an extension of ArcheGEO, the postgreSQL DB schema of PROTEASE is slightly different from ArcheGEO. Do not run PROTEASE using the postgreSQL DB populated by ArcheGEO_offline and vice versas. Instead, run PROTEASE_offline to populate the postgreSQL DB schema for PROTEASE.
+Important: Although PROTEASE is an extension of ArcheGEO, the postgreSQL DB schema of PROTEASE is slightly different from ArcheGEO. Do not run PROTEASE using the postgreSQL DB populated by ArcheGEO_offline and vice versas. Instead, run PROTEASE_offline to populate the postgreSQL DB schema for PROTEASE.
+_______________________________________________________________________________________________________________________________________________
 
 ArcheGEO_offline is the offline pipeline of ArcheGEO and is responsible for setting up the PostgreSQL database with data from NCI Thesaurus, NCI Metathesaurus and Cellosaurus. 
 It is coded using Python 3.8 (PyCharm Community 2020.2). Note that you should run ArcheGEO_offline first before using ArcheGEO_online.
